@@ -3,7 +3,8 @@ It helps us to make the entry of hard-drive in fstab or we can say to mount the 
 
 Install the fstab library for python3 by typing "sudo pip3 install fstab".
 
-For runnning the program:- step1:- just go in to the folder in which you have kept the program step2:- type Sudo python3 uui.py
+For runnning the program:- step1:- just go in to the folder in which you have kept the program 
+                           step2:- type sudo python3 uui.py
 
 
 Note:- well one can even use it for other devices with linux based os.
